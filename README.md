@@ -62,7 +62,6 @@ The extruder is a critical component in a Polar 3D printer assembly. It is respo
 ## Filament:
 Filament is the material used in 3D printing, usually in the form of a long, thin strand. In a Polar 3D printer assembly, filament is typically made of plastic and is fed into the extruder. The extruder heats and melts the filament, allowing it to be deposited layer by layer to create the final 3D printed object.
 
-## OUTPUT:
 ![239750877-695d02b8-0401-421a-8e66-465bbeaadf54](https://github.com/sivabalan28/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113497347/de61f435-767f-429e-948a-f7d4698be8dc)
 
 
