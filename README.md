@@ -1,4 +1,3 @@
-```
 
 ## Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 ## DATE:
@@ -71,4 +70,3 @@ Name: SIVABALAN S
 Register Number: 212222240100
 ## RESULT:
 Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
-```
